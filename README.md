@@ -1,3 +1,3 @@
 # verilogen.py
 
-a command-line tool for verilog code generation using templates.
+a new method for verilog HDL code generation by templates, implemented using python and jinja2.
